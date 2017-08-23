@@ -24,7 +24,7 @@ dependencies {
 Declare `RatingBar` in your XML with `app` attributes:
 ```
 <com.ymb.ratingbar_lib.RatingBar
-	android:layout_width="wrap_content"
+    android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     app:drawable_empty="@drawable/ic_star_empty"
     app:drawable_filled="@drawable/ic_star_filled"
