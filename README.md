@@ -35,3 +35,5 @@ Declare `RatingBar` in your XML with `app` attributes:
     app:max_count="5"
     app:rating="3.5" />
 ```
+
+## Screenshot
