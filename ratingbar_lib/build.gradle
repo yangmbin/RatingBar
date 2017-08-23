@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'
 
 android {
     compileSdkVersion 26
@@ -22,4 +23,13 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
+}
+
+publish {
+    userOrg = 'yangmbin'
+    groupId = 'com.ymb'
+    artifactId = 'ratingbar'
+    publishVersion = '1.0.0'
+    desc = 'Simple android widget that can replace standard inconvenient RatingBar in your app.'
+    website = 'https://github.com/yangmbin/RatingBar'
 }
