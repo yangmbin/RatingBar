@@ -1,7 +1,7 @@
 # RatingBar
 
 ## Screenshot
-![Screenshot](https://github.com/yangmbin/RatingBar/raw/master/screenshot/screenshot.gif)
+![](https://github.com/yangmbin/RatingBar/blob/master/raw/master/screenshot/screenshot.gif)
 
 # How to
 
