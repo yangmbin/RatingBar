@@ -3,7 +3,7 @@
 ## Screenshot
 ![](https://github.com/yangmbin/RatingBar/blob/master/raw/master/screenshot/screenshot.gif)
 
-# How to
+## How to
 
 To get a Git project into your build:
 
