@@ -20,7 +20,7 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
-    compile 'com.github.yangmbin:RatingBar:-SNAPSHOT'
+    compile 'com.github.yangmbin:RatingBar:1.0.0'
 }
 ```
 
