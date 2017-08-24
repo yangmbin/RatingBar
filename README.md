@@ -1,4 +1,5 @@
 # RatingBar
+A RatingBar in Android, you can define the size and margin of stars.
 
 ## Screenshot
 ![](https://github.com/yangmbin/RatingBar/blob/master/raw/master/screenshot/screenshot.gif)
