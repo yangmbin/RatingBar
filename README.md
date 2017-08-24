@@ -1,4 +1,8 @@
 # RatingBar
+
+## Screenshot
+![Screenshot](https://github.com/yangmbin/RatingBar/raw/master/screenshot/screenshot.gif)
+
 # How to
 
 To get a Git project into your build:
@@ -36,4 +40,3 @@ Declare `RatingBar` in your XML with `app` attributes:
     app:rating="3.5" />
 ```
 
-## Screenshot
